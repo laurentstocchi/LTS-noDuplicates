@@ -21,7 +21,6 @@ public class main {
 	private static HashMap<String,Car> vehicles = new HashMap<String,Car>();
 
 	public static void main(String[] args) {
-		int i = 0;
 		
 		Car vehicle1 = new Car("757 ASP 57","car");
 		vehicles.put("757 ASP 57",vehicle1);
